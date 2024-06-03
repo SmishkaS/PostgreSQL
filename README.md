@@ -1,8 +1,8 @@
-# PostgreSQL для администраторов баз данных и разработчиков h1
+# PostgreSQL для администраторов баз данных и разработчиков
 
 Самый востребованный курс повышения квалификации по управлению базой данных PostgreSQL
 
-[# PostgreSQL](https://otus.ru/lessons/postgresql-dba/)
+Курсы OTUS - [# PostgreSQL](https://otus.ru/lessons/postgresql-dba/)
 
- В этом репозитории будут собранный мои Home Works
+В этом репозитории будут собранный мои Home Works
  
